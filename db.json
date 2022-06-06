@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Product 1",
-      "description": "A Product that is 1st in the list products"
+      "description": "A Product that is 1st in the list of  products"
     },
     {
       "id": 2,
@@ -47,16 +47,6 @@
     }
   ],
   "cartItems": [
-    {
-      "productId": 1,
-      "count": 3,
-      "id": 1
-    },
-    {
-      "productId": 2,
-      "count": 5,
-      "id": 2
-    },
     {
       "productId": 3,
       "count": 1,
